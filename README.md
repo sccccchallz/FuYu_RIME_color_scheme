@@ -13,3 +13,5 @@
 <div align=center>
 <img src=https://github.com/schalldemz/FuYu_RIME_color_scheme/blob/main/custom_scheme_FuYu.png>
 </div>
+
+<img src=https://github.com/schalldemz/FuYu_RIME_color_scheme/blob/main/preview.webp>
