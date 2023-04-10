@@ -9,3 +9,5 @@
 3. 打开用户文件夹中的 (对应发行版名称).custom.yaml。如 Windows 中对应的就是 weasel.custom.yaml
 4. 复制 "preset_color_schemes/FuYu" 下的内容，可以根据自己的喜好对应下面的提示进行自己的微调
 5. 重新部署此主题，**开始使用傅玉配色的输入法！**
+
+![avatar](/FuYu_RIME_color_scheme/color_scheme_FuYu.png)
