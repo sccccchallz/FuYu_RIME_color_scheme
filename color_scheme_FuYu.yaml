@@ -1,0 +1,43 @@
+  #Windows 用户可以选择使用以下分支的 weasel 安装实现预览图中阴影，圆角，透明度等功能
+  #https://github.com/fxliang/weasel/releases 
+  
+  "preset_color_schemes/FuYu": #纯配色，不对整体外观进行更改
+    name: "傅玉Jade/FuYu" #在下傅玉，幸会。致每个有缘看到我的人：祝您 —— 早安、午安、晚安。
+    author: shelz/傅哥    #送给所有粉丝
+    color_format: rgba
+    #blur_window: false  #分支专用参数
+    back_color: 0xf4ede7f2 
+    border_color: 0xa99f9dff
+    text_color: 0x696463ff 
+    hilited_text_color: 0x5c5a5fff 
+    hilited_back_color: 0xbbb0aed9   
+    hilited_mark_color: 0xf1d4d1ff
+    hilited_candidate_back_color: 0x2e3686e6 
+    hilited_candidate_text_color: 0xfff8f1ff  
+    #hilited_candidate_shadow_color: 0x2c3577ff #分支专用参数  
+    hilited_candidate_border_color: 0x2c3577e6 
+    #shadow_color: 0x5c5855ff #分支专用参数
+    label_color: 0x353131ff  
+
+# 这套配色使用 hex 编码的 rgba 颜色，即最后两位为透明度
+# 透明度 hex 对应
+# 100% — FF   
+# 95% — F2
+# 90% — E6 
+# 85% — D9
+# 80% — CC
+# 70% — B3
+# 65% — A6  
+# 60% — 99
+# 55% — 8C
+# 50% — 80
+# 45% — 73
+# 40% — 66
+# 35% — 59
+# 30% — 4D
+# 25% — 40
+# 20% — 33
+# 15% — 26
+# 10% — 1A
+# 5% — 0D
+# 0% — 00                                                           
