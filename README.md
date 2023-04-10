@@ -10,4 +10,4 @@
 4. 复制 "preset_color_schemes/FuYu" 下的内容，可以根据自己的喜好对应下面的提示进行自己的微调
 5. 重新部署此主题，**开始使用傅玉配色的输入法！**
 
-![avatar](/FuYu_RIME_color_scheme/color_scheme_FuYu.png)
+![avatar](https://github.com/schalldemz/FuYu_RIME_color_scheme/blob/main/custom_scheme_FuYu.png)
